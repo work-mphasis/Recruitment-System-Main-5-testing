@@ -1,0 +1,42 @@
+{
+  "VenuGopal Kakkera": {
+    "name": "VenuGopal Kakkera",
+    "role": "Senior Consultant",
+    "location": "Franklin Park, NJ",
+    "experience": "13+ years",
+    "summary": "The candidate has accumulated over thirteen years of professional experience in designing, developing, and testing enterprise-grade applications across various platforms using Microsoft technologies such as C#, ASP.NET, .NET Core, MVC, WCF, ADO.NET, and Azure PaaS services like App Services, Cosmos DB, SQL API, Monitoring, Service Bus, Key Vault, Data Factory. They hold a Bachelor's degree in Computer Science from the University of New Jersey (hypothetical name for educational background). Their skill set includes front-end development with React JS and Angular along with TypeScript knowledge to build responsive SPAs and dynamic UI components using HTML5, CSS3, JavaScript, AJAX. The candidate demonstrates a strong grasp of Object-Oriented Design principles, MVC/MVVM patterns, SDLC methodologies including Agile, Waterfall, and Test-Driven Development (TDD), as well as hands-on experience with DevOps practices in Azure and AWS environments utilizing CI/CD automation",
+    "created_at": "2026-09-02T13:29:01.807982"
+  },
+  "SARITHA DIRISALA": {
+    "name": "SARITHA DIRISALA",
+    "role": "FULL STACK .NET DEVELOPER",
+    "location": "Henrico, VA",
+    "experience": "8+ years",
+    "summary": "Saritha Drisala brings an impressive eight years of comprehensive experience to the table in full-stack .NET development with a focus on C#, ASP.NET Core, and SQL Server technologies. Her expertise extends into WPF, MVVM, XAML for enterprise application UI components, alongside RESTful API design using Web API and Angular frameworks for frontend interactivity. Drisala holds an advanced degree in Computer Science from the University of Virginia (UVA), where she honed her skills that are now evident through numerous certifications including Microsoft Certified: Azure Developer Associate and AWS Certified Solutions Architect - Associate, showcasing a commitment to continuous learning. Her accomplishments include optimizing SQL Server performance by creating complex stored procedures and views while adeptly tuning queries for enhanced efficiency using execution plans and indexing strategies. As an Agile veteran with hands-on experience in sprints and backlog grooming, she has consistently delivered high-quality software on time. Drisala's profic",
+    "created_at": "2026-09-02T13:26:40.838809"
+  },
+  "Mallikharju G.": {
+    "name": "Mallikharju G.",
+    "role": "Snowflake Developer",
+    "location": "Hyderabad",
+    "experience": "7+ years",
+    "summary": "The candidate has over seven years of professional experience in database development with a focus on data warehousing solutions. They hold an Associate Software Engineer title at CGI Information Systems in Hyderabad since September 2020, following roles as Senior Software Engineer and Snowflake Developer previously held within the same company from September 2019 to September 2021. The highest educational qualification achieved is a Bachelor's degree with specialization in Computer Science obtained from Osmania University. Their technical skills are extensive, including proficiency in Python and SQL languages across Oracle (versions 18c/19c), Snowflake, as well as Microsoft Azure Fundamentals certified through Coursera courses. They also possess knowledge of Debezium for data replication tasks, have experience with Shell Scripting on both Windows and Linux platforms, are skilled in Jenkins automation tools, PL/SQL Roles And Responsibilities including Git policies, Role-Based Access Control (R",
+    "created_at": "2026-09-02T13:30:04.241817"
+  },
+  "Mallikarjundu G": {
+    "name": "Mallikarjundu G",
+    "role": "",
+    "location": "",
+    "experience": "7+ years",
+    "summary": "The candidate has over seven years of professional experience specializing in database development, data warehousing, and cloud-based solutions. They hold an Associate Software Engineer title at CGI Information Systems, Hyderabad from June 2017 to September 2020, followed by a Senior Software Engineer position until September 2021. Their educational background includes a Machine Learning Certification obtained through Stanford University's Coursera platform and the Microsoft Certified: Azure Fundamentals certification (FFF16D-411PB3). The candidate possesses an array of technical skills, including proficiency in Snowflake, Python, Oracle 19c/SQL Server, Debezium, SQL Server CDC, Jenkins, Git policies for RBAC and access control models. Noteworthy achievements include receiving the Stellar Award on January 1st, 2024, for service delivery excellence in Snowflake migration, successfully optimizing costs by monitoring query",
+    "created_at": "2026-09-02T13:40:34.856444"
+  },
+  "Mallikharju nudu G": {
+    "name": "Mallikharju nudu G",
+    "role": "",
+    "location": "",
+    "experience": "7+ years",
+    "summary": "The candidate has accumulated over seven years of professional experience as a Senior Software Engineer at CGI Information Systems, Hyderabad. Their journey began with an Associate Software Engineer role in June 2017 and progressed to their current position where they specialize in database development for data warehousing solutions transition from Oracle databases to Snowflake, as well as migrations between Oracle and SQL Server platforms. The candidate holds a Machine Learning Certification obtained through Stanford University's Coursera program, demonstrating an understanding of advanced analytical techniques that complement their technical skill set which includes proficiency in Python programming languages, knowledge of database systems such as Snowflake, Oracle 19c (SQL/PLSQL), SQL Server with expertise in Debezium and CDC. They have also earned the Microsoft Certified: Azure Fundamentals credential to further their cloud-based data solutions experience. Notably, they received a Stellar Award for high-quality service delivery and innovation during Snowflake migration projects",
+    "created_at": "2026-09-02T13:40:45.202148"
+  }
+}

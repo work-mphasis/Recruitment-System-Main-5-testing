@@ -1,0 +1,218 @@
+{
+  "5544929": {
+    "role": "SQL/Python/FE DEV",
+    "skills": [
+      "C#",
+      "ASP.NET",
+      "SQL",
+      "Python",
+      "Java"
+    ],
+    "job_description": "Key Responsibilities\n\nDesign and develop web application user interfaces using Blazor (Server and Web Assembly)\nDevelop backend components using C# and ASP.NET Core\nImplement data access layers to integrate with SQL Server, including:\nComplex queries\nStored procedures\nData validation and performance optimization\nIntegrate  SharePoint using API:\nImplement secure authentication and authorization mechanisms in alignment with enterprise standards\nEnsure proper error handling, logging, and monitoring across application components\nCollaborate with architects, business analysts, and stakeholders to translate functional requirements into technical solutions\nAdhere to organizational coding standards, security policies, and development best practices\nParticipate in code reviews, testing, and deployment activities\nActively participate in Agile ceremonies (refinement, planning, daily stand-ups, retrospectives).\nChampion a quality-first mindset across engineering and business stakeholders.",
+    "updated_at": "2026-03-30T20:58:53.386896"
+  },
+  "995549": {
+    "role": "React JS FE DEV",
+    "skills": [
+      "Python",
+      "C#",
+      "Java"
+    ],
+    "job_description": "Key Responsibilities\n\nDesign and develop web application user interfaces using Blazor (Server and Web Assembly)\nDevelop backend components using C# and ASP.NET Core\nImplement data access layers to integrate with SQL Server, including:\nComplex queries\nStored procedures\nData validation and performance optimization\nIntegrate  SharePoint using API:\nImplement secure authentication and authorization mechanisms in alignment with enterprise standards\nEnsure proper error handling, logging, and monitoring across application components\nCollaborate with architects, business analysts, and stakeholders to translate functional requirements into technical solutions\nAdhere to organizational coding standards, security policies, and development best practices\nParticipate in code reviews, testing, and deployment activities\nActively participate in Agile ceremonies (refinement, planning, daily stand-ups, retrospectives).\nChampion a quality-first mindset across engineering and business stakeholders.",
+    "updated_at": "2026-04-08T18:01:13.554598"
+  },
+  "559962": {
+    "role": "SQL/PYTHON DEVELOPER",
+    "skills": [
+      "Python",
+      "React",
+      "SQL",
+      "Java"
+    ],
+    "job_description": "Key Responsibilities\n\nDesign and develop web application user interfaces using Blazor (Server and Web Assembly)\nDevelop backend components using C# and ASP.NET Core\nImplement data access layers to integrate with SQL Server, including:\nComplex queries\nStored procedures\nData validation and performance optimization\nIntegrate  SharePoint using API:\nImplement secure authentication and authorization mechanisms in alignment with enterprise standards\nEnsure proper error handling, logging, and monitoring across application components\nCollaborate with architects, business analysts, and stakeholders to translate functional requirements into technical solutions\nAdhere to organizational coding standards, security policies, and development best practices\nParticipate in code reviews, testing, and deployment activities\nActively participate in Agile ceremonies (refinement, planning, daily stand-ups, retrospectives).\nChampion a quality-first mindset across engineering and business stakeholders.",
+    "updated_at": "2026-04-08T18:02:03.781406"
+  },
+  "99665529": {
+    "role": "AWS Cloud Data Developer with Node.js",
+    "skills": [
+      "Node.js",
+      ".NET Core Web API",
+      "AWS services"
+    ],
+    "job_description": "Job Summary:\nWe are seeking a highly motivated and experienced **AWS Cloud Data Developer** with strong expertise in **Node.js**, **.NET Core Web API**, and **AWS services** to design, develop, and maintain scalable and reliable data pipelines for cloud-based applications. The ideal candidate will have solid experience building backend APIs, working with serverless architectures (AWS Lambda), NoSQL databases (DynamoDB), and DevOps practices in AWS.\n\n \n\n**Key Responsibilities** \n\n- Design, develop, and maintain efficient data pipelines for data ingestion, transformation, and processing. \n\n- Develop robust Node.js / Express.js backend APIs with comprehensive unit testing (Jest/Mocha). \n\n- Build and manage serverless functions using **AWS Lambda** for event-driven tasks. \n\n- Implement and optimize NoSQL databases including **DynamoDB**, MongoDB, and Elasticsearch. \n\n- (Optional) Design and deploy containerized applications using **AWS EKS**. \n\n- (Optional) Provision and manage additional AWS services: EC2, S3, API Gateway, SQS, SES, and Pinpoint. \n\n- Collaborate with cross-functional teams (DevOps, Data Science, etc.) to understand data requirements and deliver effective solutions. \n\n- Automate infrastructure provisioning and configuration using Infrastructure as Code (IaC) tools. \n\n- Monitor and troubleshoot data pipelines to ensure data quality, performance, and system health. \n\n- Stay current with latest trends in cloud technologies and data engineering best practices.\n\n \n\n**Mandatory Skills** \n\n- Strong experience with **.NET Core Web API** (using MVC Core). \n\n- Hands-on expertise in **AWS DevOps Services**, **AWS Lambda**, and **DynamoDB**. \n\n- Proficiency in **Node.js** for backend development. \n\n \n\n**Good to Have Skills** \n\n- AWS AI Services, AWS API Gateway, Java, PostgreSQL. \n\n- Experience with container orchestration (AWS EKS). \n\n- Familiarity with additional AWS services (EC2, S3, SQS, SES, Pinpoint).\n\n \n\n**Qualifications** \n\n- 4 to 7 years of experience as a Cloud Data Engineer or in a related role. \n\n- Strong understanding of data engineering principles and methodologies. \n\n- Excellent problem-solving, analytical, and communication skills. \n\n- Ability to work independently as well as part of a cross-functional team.",
+    "updated_at": "2026-04-12T12:48:20.814990"
+  },
+  "99559": {
+    "role": "SQL Devloper",
+    "skills": [
+      "SQL",
+      "PL/SQL",
+      "Oracle",
+      "ETL",
+      "SSIS",
+      "AWS",
+      "Azure"
+    ],
+    "job_description": "We are seeking a Senior SQL Developer with over 5 years of experience to lead the design, optimization, and scaling of our enterprise database systems. In this role, you will own the database architecture, mentor junior developers, and solve complex performance bottlenecks to support our high-traffic applications. Key Responsibilities Architecture Design: Architect scalable, highly available database structures and complex data models. Performance Tuning: Analyze execution plans, optimize indexes, and rewrite slow-running queries to minimize latency. Pipeline Development: Design robust, automated ETL/ELT pipelines to integrate disparate data streams. Database Governance: Define enterprise standards for code reviews, deployment scripts, and database documentation. Security & Compliance: Implement advanced data masking, encryption, and role-based access controls. Technical Leadership: Mentor junior engineers and collaborate with software architects on infrastructure decisions. Required Skills & Qualifications Proven Experience: Minimum 5\u20137 years of professional experience as a dedicated SQL Developer or Database Engineer. Engine Mastery: Expert-level knowledge of enterprise engines like Microsoft SQL Server, Oracle, or PostgreSQL.Advanced Code: Mastery of T-SQL or PL/SQL, including complex dynamic SQL, window functions, and error handling. Infrastructure: Deep understanding of database replication, clustering, partitioning, and disaster recovery strategies. Cloud Platforms: Experience deploying and managing databases in cloud environments like AWS (RDS) or Azure SQL. DevOps Integration: Familiarity with database version control (e.g., Flyway, Liquibase) and CI/CD deployment pipelines.",
+    "updated_at": "2026-05-14T11:57:58.549314"
+  },
+  "663525": {
+    "role": "SQL Developer",
+    "skills": [],
+    "job_description": "Job Title: Senior Full Stack Developer / AI Quantitative Engineer Location: New York, NY (Hybrid)Job Type: Full-Time About the Role We are seeking a highly experienced Senior Full Stack Developer and AI Systems Consultant to join our technology team. In this role, you will partner directly with portfolio managers, trading desks, and quantitative researchers to design, build, and scale mission-critical trading and investment platforms. You will bridge the gap between complex quantitative analytics and enterprise architecture, with a heavy emphasis on integrating LLM-driven automation into our trading lifecycle. Key Responsibilities AI/LLM Integration: Spearhead AI automation initiatives using Azure Semantic Kernel SDK (chat completions, vector search, REST integrations) to automate financial workflows and processes. Trading & Risk Systems: Architect and develop high-performance systems for trade, position, risk, P&L, hedging, and sizing, exposed via robust web API layers. Platform Development: Contribute to the architecture of systematic portfolio engines, integrating quantitative signals, portfolio construction algorithms, and strategy evaluation frameworks. Front-to-Back Engineering: Build scalable, end-to-end technology platforms that translate complex investment ideas into seamless, user-friendly production tools for investment teams. Consultative Collaboration: Partner with PMs, traders, and quant teams to solve complex problems in signal research infrastructure, investment analytics, and trading workflows. Qualifications & Requirements Experience: 15+ years of software engineering experience delivering high-performance financial/trading systems. Technical Stack: Expert-level full-stack development experience (backend APIs, frontend web layers).Strong background in Cloud-hosted LLMs and AI automation; hands-on experience with the Azure Semantic Kernel SDK. Domain Knowledge: Deep understanding of capital markets, including portfolio construction, signal research, risk management, and P&L. Quantitative Acumen: Proven track record of building systematic portfolio engines and partnering with quantitative analysts. Communication: Exceptional stakeholder management skills with a history of translating abstract investment ideas into scalable technical platforms.",
+    "updated_at": "2026-06-01T18:45:45.762764"
+  },
+  "635241": {
+    "role": "AI Quantitative Engineer",
+    "skills": [],
+    "job_description": "Job Title: Senior Full Stack Developer / AI Quantitative Engineer Location: New York, NY (Hybrid)Job Type: Full-Time About the Role We are seeking a highly experienced Senior Full Stack Developer and AI Systems Consultant to join our technology team. In this role, you will partner directly with portfolio managers, trading desks, and quantitative researchers to design, build, and scale mission-critical trading and investment platforms. You will bridge the gap between complex quantitative analytics and enterprise architecture, with a heavy emphasis on integrating LLM-driven automation into our trading lifecycle. Key Responsibilities AI/LLM Integration: Spearhead AI automation initiatives using Azure Semantic Kernel SDK (chat completions, vector search, REST integrations) to automate financial workflows and processes. Trading & Risk Systems: Architect and develop high-performance systems for trade, position, risk, P&L, hedging, and sizing, exposed via robust web API layers. Platform Development: Contribute to the architecture of systematic portfolio engines, integrating quantitative signals, portfolio construction algorithms, and strategy evaluation frameworks. Front-to-Back Engineering: Build scalable, end-to-end technology platforms that translate complex investment ideas into seamless, user-friendly production tools for investment teams. Consultative Collaboration: Partner with PMs, traders, and quant teams to solve complex problems in signal research infrastructure, investment analytics, and trading workflows. Qualifications & Requirements Experience: 15+ years of software engineering experience delivering high-performance financial/trading systems. Technical Stack: Expert-level full-stack development experience (backend APIs, frontend web layers).Strong background in Cloud-hosted LLMs and AI automation; hands-on experience with the Azure Semantic Kernel SDK. Domain Knowledge: Deep understanding of capital markets, including portfolio construction, signal research, risk management, and P&L. Quantitative Acumen: Proven track record of building systematic portfolio engines and partnering with quantitative analysts. Communication: Exceptional stakeholder management skills with a history of translating abstract investment ideas into scalable technical platforms.",
+    "updated_at": "2026-06-01T18:47:33.128068"
+  },
+  "PYD-001": {
+    "role": "Senior Python Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "Django",
+      "Pandas",
+      "NumPy",
+      "SQLAlchemy",
+      "Apache Kafka",
+      "AWS Kinesis",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "GCP",
+      "CI/CD",
+      "PyTest",
+      "LangChain",
+      "Vertex AI"
+    ],
+    "job_description": "Senior Python Developer - Market Risk & Data Engineering Platform\n\nWe are seeking a Senior Python Developer (10+ years) to join our Market Risk and Data Engineering platform team. The ideal candidate brings deep expertise building production Python systems for financial risk platforms, event-driven data pipelines, and cloud-native microservices.\n\nKey Responsibilities:\n- Design and develop scalable Python microservices and RESTful APIs using FastAPI, Flask or Django for risk analytics and data platform consumers\n- Build and maintain risk aggregation pipelines (VaR, stress testing, scenario management) processing positions, market data and trade exposures\n- Develop event-driven architectures using Apache Kafka, AWS Kinesis, Azure Event Hubs or Google Pub/Sub for real-time market data ingestion and risk event processing\n- Architect cloud-native data services on AWS, Azure or GCP integrating PostgreSQL, Snowflake or BigQuery using SQLAlchemy ORM\n- Implement containerized microservices using Docker and Kubernetes (EKS / AKS / GKE)\n- Build and maintain CI/CD pipelines using GitHub Actions, Azure DevOps or GitLab CI/CD\n- Develop ML/AI pipeline integrations using scikit-learn, LangChain, Vertex AI or Azure OpenAI for risk analytics workflows\n- Enforce data quality, testing and observability using PyTest, Great Expectations, Datadog and Prometheus\n\nRequired Skills:\n- 8+ years of Python development (OOP, decorators, asyncio, context managers, custom exceptions)\n- FastAPI / Flask / Django - production RESTful and async API development\n- Pandas, NumPy, SQLAlchemy - data processing and ORM\n- Apache Kafka / AWS Kinesis / Azure Event Hubs - event-driven streaming\n- PostgreSQL / Oracle / MongoDB - relational and NoSQL data architecture\n- Docker, Kubernetes - containerization and orchestration\n- AWS / Azure / GCP - cloud platform proficiency\n- CI/CD - GitHub Actions, Azure DevOps, GitLab CI/CD\n- PyTest, unittest - automated testing and quality assurance\n\nNice to Have:\n- Experience with Quartz (Citi), Athena (JPMC) or SecDB (Goldman) risk platforms\n- VaR engines, stress testing frameworks, scenario management\n- LangChain, Vertex AI, Azure OpenAI - Generative AI and RAG pipelines\n- Snowflake, Databricks, Amazon Redshift - enterprise data warehousing\n- Terraform, Pulumi - Infrastructure as Code\n\nEducation: Bachelor's or Master's in Computer Science, Information Systems or related field",
+    "updated_at": "2026-06-01T19:22:47.402513"
+  },
+  "PC-A001": {
+    "role": "Full Stack Developer",
+    "skills": [
+      "Python",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "TypeScript",
+      "CI/CD"
+    ],
+    "job_description": "Full Stack Developer\n\nWe are looking for a Full Stack Developer with 5+ years of experience designing and building end-to-end web applications for enterprise platforms.\n\nResponsibilities:\n- Develop React/TypeScript frontend applications integrated with Python (FastAPI/Django) backends\n- Design and implement RESTful APIs, database schemas and data models\n- Build and maintain CI/CD pipelines (GitHub Actions, Docker)\n- Collaborate with product managers, UX designers and QA engineers\n\nRequirements:\n- 5+ years full-stack development (Python backend + React/Vue/Angular frontend)\n- PostgreSQL / MySQL \u2014 schema design and query optimisation\n- Docker, Kubernetes \u2014 containerised deployments\n- REST API and GraphQL development\n- Agile / Scrum team experience",
+    "updated_at": "2026-06-01T19:25:27.470634"
+  },
+  "PC-B001": {
+    "role": "Senior Python Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Pandas",
+      "NumPy",
+      "SQLAlchemy",
+      "Kafka",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "PostgreSQL",
+      "PyTest"
+    ],
+    "job_description": "Senior Python Developer \u2013 Market Risk & Data Engineering\n\nJoin BNY Mellon's Investment Management Engineering (IME) team to build production Python systems for market risk platforms, event-driven data pipelines and cloud-native microservices.\n\nResponsibilities:\n- Develop FastAPI/Flask microservices for risk analytics and data platform consumers\n- Build risk aggregation pipelines (VaR, stress testing) processing positions and market data\n- Implement event-driven architectures using Apache Kafka / AWS Kinesis\n- Containerise services with Docker and deploy to Kubernetes (EKS/GKE)\n- Build CI/CD pipelines using GitHub Actions or Azure DevOps\n\nRequirements:\n- 8+ years Python (OOP, asyncio, decorators, context managers)\n- FastAPI / Flask \u2014 production async API development\n- Pandas, NumPy, SQLAlchemy\n- Apache Kafka / AWS Kinesis \u2014 streaming architecture\n- PostgreSQL / MongoDB \u2014 data architecture\n- Docker, Kubernetes \u2014 containerisation\n- PyTest \u2014 automated testing\nNice to Have: VaR / stress testing domain knowledge, LangChain / Vertex AI",
+    "updated_at": "2026-06-01T19:25:31.791005"
+  },
+  "PC-B002": {
+    "role": "Data Engineer",
+    "skills": [
+      "Python",
+      "PySpark",
+      "Apache Airflow",
+      "Snowflake",
+      "AWS Glue",
+      "dbt",
+      "Kafka",
+      "PostgreSQL",
+      "Terraform",
+      "PyTest"
+    ],
+    "job_description": "Data Engineer \u2013 Wealth Management Analytics\n\nBuild and maintain large-scale data pipelines and analytics infrastructure for BNY Mellon's Wealth Management division.\n\nResponsibilities:\n- Design and develop ETL/ELT pipelines using PySpark, AWS Glue and Apache Airflow\n- Build and maintain Snowflake / Redshift data warehouse layers\n- Implement data quality validation using Great Expectations and dbt\n- Build real-time streaming pipelines using Apache Kafka\n- Automate infrastructure using Terraform\n\nRequirements:\n- 5+ years data engineering (Python, PySpark)\n- Apache Airflow \u2014 DAG orchestration\n- Snowflake / Amazon Redshift \u2014 cloud data warehousing\n- dbt \u2014 data transformations and modelling\n- Apache Kafka \u2014 streaming\n- AWS (Glue, S3, EMR) or Azure (Data Factory, Synapse)\n- Terraform \u2014 Infrastructure as Code\nNice to Have: Delta Lake, Databricks, financial data domain",
+    "updated_at": "2026-06-01T19:25:31.810318"
+  },
+  "PC-S001": {
+    "role": "Python Backend Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery",
+      "Docker",
+      "AWS",
+      "OAuth2",
+      "JWT",
+      "PyTest"
+    ],
+    "job_description": "Python Backend Developer \u2013 Finance Technology\n\nCharles Schwab Finance Technology is looking for a Python Backend Developer to build scalable financial services APIs and backend systems.\n\nResponsibilities:\n- Develop high-throughput FastAPI / Django REST services for financial transaction processing\n- Implement asynchronous task processing using Celery and Redis\n- Design PostgreSQL schemas for financial data with performance optimisation\n- Implement OAuth2 / JWT authentication and authorisation\n- Build automated test suites using PyTest and integrate into CI/CD pipelines\n\nRequirements:\n- 4+ years Python backend development\n- FastAPI or Django \u2014 production API development\n- PostgreSQL \u2014 advanced query optimisation\n- Redis, Celery \u2014 asynchronous task processing\n- Docker \u2014 containerisation\n- AWS (Lambda, RDS, SQS) \u2014 cloud services\n- OAuth2, JWT \u2014 secure authentication\nNice to Have: Financial services domain, regulatory compliance (SOX, PCI-DSS)",
+    "updated_at": "2026-06-01T19:25:31.833454"
+  },
+  "PC-S002": {
+    "role": "ML Engineer",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "MLflow",
+      "Kubeflow",
+      "AWS SageMaker",
+      "Pandas",
+      "NumPy",
+      "Docker",
+      "Kubernetes"
+    ],
+    "job_description": "Machine Learning Engineer \u2013 Investment Management Engineering\n\nBuild and productionise ML systems for Schwab's investment analytics and recommendation platforms.\n\nResponsibilities:\n- Design, train and deploy ML models for investment recommendations and risk scoring\n- Build ML training and inference pipelines using AWS SageMaker / Azure ML\n- Implement model monitoring, drift detection and automated retraining using MLflow\n- Develop feature engineering pipelines using Pandas, NumPy and PySpark\n- Containerise ML services using Docker and deploy on Kubernetes\n\nRequirements:\n- 5+ years ML engineering (Python, scikit-learn, TensorFlow or PyTorch)\n- AWS SageMaker or Azure Machine Learning \u2014 managed ML platforms\n- MLflow \u2014 experiment tracking and model registry\n- Feature stores and batch / real-time inference pipelines\n- Docker, Kubernetes \u2014 ML workload containerisation\nNice to Have: LangChain / GPT integrations, financial domain ML, SHAP / model explainability",
+    "updated_at": "2026-06-01T19:25:31.849208"
+  },
+  "PC-T001": {
+    "role": "Senior Data Engineer",
+    "skills": [
+      "Python",
+      "PySpark",
+      "Azure Data Factory",
+      "Azure Synapse",
+      "Databricks",
+      "Delta Lake",
+      "dbt",
+      "Apache Airflow",
+      "Terraform",
+      "SQL"
+    ],
+    "job_description": "Senior Data Engineer \u2013 Wealth Management\n\nTD Wealth is hiring a Senior Data Engineer to build enterprise data platform solutions supporting wealth analytics, regulatory reporting and client intelligence.\n\nResponsibilities:\n- Architect and develop large-scale ETL/ELT pipelines on Azure (Synapse, Data Factory, Databricks)\n- Design Delta Lake schemas and implement data quality frameworks using Great Expectations\n- Build dbt transformation models and orchestrate via Apache Airflow\n- Deliver governed datasets for regulatory reporting and BI consumption\n- Automate infrastructure provisioning using Terraform\n\nRequirements:\n- 6+ years data engineering\n- PySpark \u2014 large-scale data processing\n- Azure Data Factory, Azure Synapse Analytics or AWS Glue\n- Databricks / Delta Lake \u2014 lakehouse architecture\n- dbt \u2014 analytics engineering\n- Apache Airflow \u2014 workflow orchestration\n- Terraform \u2014 IaC\nNice to Have: TD regulatory reporting domain, Power BI, Snowflake",
+    "updated_at": "2026-06-01T19:41:57.823959"
+  },
+  "PC-F001": {
+    "role": "Python Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Pandas",
+      "SQLAlchemy",
+      "PyTest",
+      "Kafka"
+    ],
+    "job_description": "Python Developer \u2013 Investment & Mortgage Engineering\n\nFlagstar Bank is seeking a Python Developer to build scalable backend services and data pipelines for its mortgage and investment technology platforms.\n\nResponsibilities:\n- Develop FastAPI / Flask microservices for mortgage origination and servicing platforms\n- Build ETL pipelines processing loan, appraisal and compliance datasets\n- Integrate AWS services (Lambda, S3, RDS) into data workflows\n- Implement automated tests using PyTest within CI/CD pipelines\n\nRequirements:\n- 3+ years Python development\n- FastAPI or Flask \u2014 REST API development\n- PostgreSQL \u2014 relational database design\n- Docker \u2014 containerisation\n- AWS (Lambda, S3, RDS) \u2014 cloud integration\n- Pandas, SQLAlchemy \u2014 data processing\nNice to Have: Mortgage / lending domain knowledge, Apache Kafka, Terraform",
+    "updated_at": "2026-06-01T19:25:31.889654"
+  }
+}

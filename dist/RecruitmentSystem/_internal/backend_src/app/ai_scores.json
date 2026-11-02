@@ -1,0 +1,380 @@
+{
+  "John_Doe__transformed.docx": {
+    "role": "SQL Devloper",
+    "score": {
+      "source": "keyword_fallback",
+      "overall": 90,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [],
+        "reasoning": "7 of 7 required skills found."
+      },
+      "experience": {
+        "score": 10,
+        "reasoning": "5 years detected."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "68 JD keywords matched."
+      },
+      "cached": false
+    },
+    "scored_at": "2026-05-14T12:41:55.316491"
+  },
+  "John_Doe__original.docx": {
+    "role": "SQL Devloper",
+    "score": {
+      "source": "keyword_fallback",
+      "overall": 90,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [],
+        "reasoning": "7 of 7 required skills found in resume."
+      },
+      "experience": {
+        "score": 10,
+        "years_detected": 5,
+        "reasoning": "5 years detected."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "68 JD keywords matched in resume context."
+      },
+      "summary": "Keyword-based score. Ollama unavailable at time of scoring."
+    },
+    "scored_at": "2026-05-14T12:09:34.581856"
+  },
+  "Saman_Mishra__transformed.docx::AI Quantitative Engineer": {
+    "role": "AI Quantitative Engineer",
+    "score": {
+      "overall": 85,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "Senior Full Stack Developer",
+          "AI/LLM consultant"
+        ],
+        "missing": [],
+        "reasoning": "The candidate has demonstrated relevant skills and experience in AI automation initiatives using Azure SDK."
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": null,
+        "reasoning": "While the resume does not specify years of experience directly related to this role, it indicates a significant amount of relevant professional development."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "The candidate's background in delivering high-performance financial systems and leading AI automation initiatives align well with the job description requirements for designing mission-critical trading platforms."
+      },
+      "summary": "This highly experienced Senior Full Stack Developer, who has demonstrated relevant skills and experience in AI/LLM consultancy within finance, is a strong fit for this role based on their background. Their expertise aligns well with the job description's emphasis on designing mission-critical trading platforms.",
+      "_model_used": "phi3:mini",
+      "source": "ollama"
+    },
+    "scored_at": "2026-06-01T19:49:57.298901"
+  },
+  "Raghava_Kalyan_Inguva__transformed.docx::SQL Developer": {
+    "role": "SQL Developer",
+    "score": {
+      "overall": 65,
+      "skills": {
+        "score": 48,
+        "matched": [
+          "quantitative analytics",
+          "Python-based quantitative analytics"
+        ],
+        "missing": [
+          "AI/LLM Integration",
+          "Azure Semantic Kernel SDK (chat completions)"
+        ],
+        "reasoning": "The candidate has relevant skills in Python and quantitative modeling but lacks specific experience with AI integration using Azure tools."
+      },
+      "experience": {
+        "score": 18,
+        "years_detected": null,
+        "reasoning": "While the candidate has over a decade of relevant industry experience, there is no specific mention of years worked in finance or technology."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "The candidate's extensive background aligns well with the role\u2019s focus on quantitative modeling and financial analytics. However, their experience is not directly tied to AI integration in finance."
+      },
+      "summary": "While Raghava I has a strong foundation in quantitative analysis within various domains including banking which aligns well with the role's requirements, his lack of specific Azure-based AI skills and direct experience may require additional training or on",
+      "_model_used": "phi3:mini",
+      "source": "ollama"
+    },
+    "scored_at": "2026-06-01T19:49:34.271706"
+  },
+  "Raghava_Kalyan_Inguva__original.docx::SQL Developer": {
+    "role": "SQL Developer",
+    "score": {
+      "source": "keyword_fallback",
+      "overall": 34,
+      "skills": {
+        "score": 0,
+        "matched": [],
+        "missing": [],
+        "reasoning": "0 of 0 required skills found in resume."
+      },
+      "experience": {
+        "score": 20,
+        "years_detected": 12,
+        "reasoning": "12 years detected."
+      },
+      "context": {
+        "score": 14,
+        "reasoning": "54 JD keywords matched in resume context."
+      },
+      "summary": "Keyword-based score. Ollama unavailable at time of scoring."
+    },
+    "scored_at": "2026-06-01T19:48:49.137943"
+  },
+  "Saman_Mishra__original.docx::AI Quantitative Engineer": {
+    "role": "AI Quantitative Engineer",
+    "score": {
+      "overall": 75,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "Senior Full Stack Developer",
+          "AI/LLM consultant"
+        ],
+        "missing": [],
+        "reasoning": "The candidate has relevant skills and experience in AI integration with LLMs."
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": null,
+        "reasoning": "While the resume does not specify years of experience directly related to financial systems and Azure SDK usage, it implies a significant amount of relevant work."
+      },
+      "context": {
+        "score": 10,
+        "reasoning": "The candidate's background in AI/LLM consultancy for trading platforms aligns well with the role requirements. However, more details on experience directly related to New York and hybrid work preferences are needed."
+      },
+      "summary": "Saman Mishra is a seasoned Senior Full Stack Developer and experienced AI/LLM consultant who has demonstrated relevant skills for integrating LLMs into financial systems. With some additional information on years of experience, they could be an excellent fit for the role.",
+      "_model_used": "phi3:mini",
+      "source": "ollama"
+    },
+    "scored_at": "2026-06-01T19:49:11.931172"
+  },
+  "Pooja_Puli__transformed.docx::Senior Python Developer": {
+    "role": "Senior Python Developer",
+    "score": {
+      "overall": 85,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "Python development",
+          "AWS Certified AI Practitioner",
+          "Microsoft Azure Solutions Architect Expert"
+        ],
+        "missing": [],
+        "reasoning": "The candidate demonstrates a strong skill set in Python and cloud services with relevant certifications."
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": 10,
+        "reasoning": "Candidate has over 10 years of experience as a Senior Python Developer in the financial risk sector with relevant hands-on projects."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "The candidate's extensive background aligns well with the responsibilities and technical requirements outlined for the Market Risk & Data Engineering Platform role at our company."
+      },
+      "summary": "Pooja P. is a seasoned Senior Python Developer with relevant experience in risk analytics platforms, making her an excellent fit for the senior position on our data engineering team.",
+      "_model_used": "phi3:mini",
+      "source": "ollama",
+      "model": "phi3:mini"
+    },
+    "scored_at": "2026-06-01T20:00:25.285316"
+  },
+  "John_Doe__transformed.docx::Python Backend Developer": {
+    "role": "Python Backend Developer",
+    "score": {
+      "source": "keyword_fallback",
+      "overall": 40,
+      "skills": {
+        "score": 16,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ],
+        "reasoning": "3 of 11 required skills found in resume."
+      },
+      "experience": {
+        "score": 10,
+        "years_detected": 5,
+        "reasoning": "5 years detected."
+      },
+      "context": {
+        "score": 14,
+        "reasoning": "23 JD keywords matched in resume context."
+      },
+      "summary": "Keyword-based score. Ollama unavailable at time of scoring."
+    },
+    "scored_at": "2026-06-01T20:04:18.300984"
+  },
+  "Pooja_Puli__transformed.docx::Python Developer": {
+    "role": "Python Developer",
+    "score": {
+      "overall": 75,
+      "skills": {
+        "score": 60,
+        "matched": [
+          "Python development",
+          "RESTful and asynchronous APIs using FastAPI"
+        ],
+        "missing": [
+          "FastAPI or Flask \u2014 REST API development",
+          "PostgreSQL \u2014 relational database design",
+          "Docker \u2014 containerisation",
+          "AWS (Lambda, S3, RDS) \u2014 cloud integration",
+          "Pandas, SQLAlch0my"
+        ]
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": 10,
+        "reasoning": "The candidate has over a decade of Python development experience with relevant risk platform systems."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "Pooja P. possesses the technical skills and industry-specific knowledge required for investment & mortgage engineering roles at Flagstar Bank."
+      },
+      "summary": "With a strong background in Python development and relevant risk platform systems, along with experience developing RESTful APIs using FastAPI, Pooja P. is highly recommended for the Python Developer role at Flagstar Bank.",
+      "_model_used": "phi3:mini",
+      "source": "ollama",
+      "model": "phi3:mini"
+    },
+    "scored_at": "2026-06-02T11:06:37.668288"
+  },
+  "Raghava_Kalyan_Inguva__transformed.docx::Data Engineer": {
+    "role": "Data Engineer",
+    "score": {
+      "overall": 45,
+      "skills": {
+        "score": 30,
+        "matched": [
+          "Python",
+          "Apache Airflow"
+        ],
+        "missing": [
+          "PySpark",
+          "AWS Glue",
+          "Terraform"
+        ]
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": null
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "The candidate has relevant experience in quantitative modeling and data analytics but lacks direct experience with the specific technologies listed in the job description."
+      },
+      "summary": "While Raghava I. possesses strong expertise in Python-based financial models, his resume does not demonstrate proficiency with PySpark or Terraform as required for this Data Engineer role at BNY Mellon's Wealth Management division.",
+      "_model_used": "phi3:mini",
+      "source": "ollama",
+      "model": "phi3:mini"
+    },
+    "scored_at": "2026-06-02T11:07:29.600585"
+  },
+  "Saman_Mishra__transformed.docx::ML Engineer": {
+    "role": "ML Engineer",
+    "score": {
+      "overall": 65,
+      "skills": {
+        "score": 48,
+        "matched": [
+          "ML engineering",
+          "AWS SageMaker"
+        ],
+        "missing": [
+          "Azure Machine Learning",
+          "MLflow",
+          "Pandas",
+          "NumPy",
+          "PySpark",
+          "Docker",
+          "Kubernetes"
+        ],
+        "reasoning": "The candidate has ML engineering experience and some familiarity with AWS, but lacks direct experience with Azure, PySpark, Docker/Kubernetes, Pandas, NumPy, and MLflow."
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": null,
+        "reasoning": "The candidate has over a decade of experience in delivering high-performance financial systems with an emphasis on AI and ML consultation."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "While the candidate's background is strong for senior roles within investment analytics platforms leveraging machine learning technologies, their experience does not directly align with all of the specific requirements listed in the job description."
+      },
+      "summary": "The candidate has a solid foundation and relevant ML engineering skills but lacks direct exposure to some key platform-specific tools. Their extensive background",
+      "_model_used": "phi3:mini",
+      "source": "ollama",
+      "model": "phi3:mini"
+    },
+    "scored_at": "2026-06-01T20:07:45.370195"
+  },
+  "John_Doe__transformed.docx::SQL Developer": {
+    "role": "SQL Developer",
+    "score": {
+      "overall": 50,
+      "skills": {
+        "score": 30,
+        "matched": [
+          "SQL",
+          "T-SQL",
+          "PL/SQL",
+          "Python"
+        ],
+        "missing": [
+          "Azure Semantic Kernel SDK (chat completions)",
+          "vector search",
+          "REST integrations"
+        ],
+        "reasoning": "The candidate has strong SQL and Python skills but lacks specific experience with AI automation tools mentioned in the job description."
+      },
+      "experience": {
+        "score": 15,
+        "years_detected": null,
+        "reasoning": "John D. does not have any listed years of professional experience which is a critical aspect for this senior-level position."
+      },
+      "context": {
+        "score": 20,
+        "reasoning": "While John has SQL development skills and some cloud knowledge, his lack of AI/LLM integration expertise makes him less suitable than candidates with a more relevant background to the Senior Full Stack Developer / AI Quantitative Engine role."
+      },
+      "summary": "John D. possesses strong foundational technical skills but lacks direct experience in AI and LLM-driven automation, which are crucial for this senior position at our New York firm.",
+      "_model_used": "phi3:mini",
+      "source": "ollama",
+      "model": "phi3:mini"
+    },
+    "scored_at": "2026-06-02T11:08:43.622990"
+  }
+}

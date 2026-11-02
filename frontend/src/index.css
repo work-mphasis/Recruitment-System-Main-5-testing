@@ -1,0 +1,133 @@
+/* frontend/src/index.css */
+
+/* ── Open Sans ── */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+/* ── CSS Custom Properties — LinkedIn Light (default) ── */
+:root {
+  /* Page / surface */
+  --pg-bg:      #F3F2EF;
+  --hdr-bg:     #FFFFFF;
+  --modal-bg:   #FFFFFF;
+  --overlay-bg: rgba(0,0,0,0.55);
+  --drop-bg:    #FFFFFF;
+  --card-bg:    #FFFFFF;
+
+  /* Layer tokens — white/pale surfaces */
+  --l02: #F8FAFD;
+  --l03: rgba(10,102,194,0.04);
+  --l04: #F3F6F9;
+  --l05: rgba(10,102,194,0.08);
+  --l06: #EEF3F8;
+  --l07: #D0D7DE;
+  --l08: #B5BEC6;
+  --l09: #8B9199;
+  --l10: #56687A;
+
+  /* Text */
+  --t1: #1D2226;
+  --t2: #38434F;
+  --t3: #56687A;
+  --t4: #86919A;
+
+  /* Nav */
+  --nav-bg:     #FFFFFF;
+  --nav-border: #D0D7DE;
+  --nav-link:   #0A66C2;
+
+  /* Brand */
+  --primary:      #0A66C2;
+  --primary-deep: #004182;
+  --primary-bg:   rgba(10,102,194,0.10);
+  --border:       #D0D7DE;
+
+  /* Surface layers */
+  --bg1: #FFFFFF;
+  --bg2: #F8FAFD;
+
+  /* No decorative grid */
+  --grid-line: transparent;
+}
+
+/* ── Dark mode (opt-in) ── */
+[data-theme="dark"] {
+  --pg-bg:      #0d1117;
+  --hdr-bg:     rgba(13,17,23,0.97);
+  --modal-bg:   #161b22;
+  --overlay-bg: rgba(0,0,0,0.75);
+  --drop-bg:    #161b22;
+  --card-bg:    #161b22;
+
+  --l02: rgba(255,255,255,0.03);
+  --l03: rgba(255,255,255,0.04);
+  --l04: rgba(255,255,255,0.06);
+  --l05: rgba(255,255,255,0.08);
+  --l06: rgba(255,255,255,0.06);
+  --l07: rgba(255,255,255,0.10);
+  --l08: rgba(255,255,255,0.14);
+  --l09: rgba(255,255,255,0.18);
+  --l10: rgba(255,255,255,0.22);
+
+  --t1: #e6edf3;
+  --t2: #adbac7;
+  --t3: #768390;
+  --t4: #545d68;
+
+  --nav-bg:     #161b22;
+  --nav-border: rgba(255,255,255,0.08);
+  --nav-link:   #58a6ff;
+
+  --primary:      #58a6ff;
+  --primary-deep: #79c0ff;
+  --primary-bg:   rgba(88,166,255,0.10);
+  --border:       rgba(255,255,255,0.10);
+
+  --grid-line: transparent;
+}
+
+/* ── Dark mode surface layers ── */
+[data-theme="dark"] {
+  --bg1: #161b22;
+  --bg2: #0d1117;
+}
+
+/* ── Global select option fix ── */
+select option {
+  background: var(--drop-bg);
+  color: var(--t1);
+}
+
+/* ── Date picker ── */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: none;
+  opacity: 0.5;
+  cursor: pointer;
+}
+[data-theme="dark"] input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.6);
+}
+
+/* ── Base ── */
+html { color-scheme: light; }
+[data-theme="dark"] { color-scheme: dark; }
+
+body {
+  font-family: 'Open Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background: var(--pg-bg);
+  color: var(--t1);
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #D0D7DE; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #B5BEC6; }
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); }
+[data-theme="dark"] ::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.22); }

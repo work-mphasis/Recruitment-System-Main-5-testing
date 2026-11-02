@@ -1,0 +1,241 @@
+{
+  "Kajol Bhosale": {
+    "candidate": "Kajol Bhosale",
+    "original_file": "Kajol_Bhosale__original.pdf",
+    "transformed_file": "Kajol_Bhosale__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "education",
+      "email",
+      "links",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-09-03T14:48:38.265741",
+    "completed_at": "2026-09-03T14:48:52.239036",
+    "processing_seconds": 13.97
+  },
+  "Kavita Kumari": {
+    "candidate": "Kavita Kumari",
+    "original_file": "Kavita_Kumari__original.docx",
+    "transformed_file": "Kavita_Kumari__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-09-03T14:48:37.305607",
+    "completed_at": "2026-09-03T14:48:53.161908",
+    "processing_seconds": 15.86
+  },
+  "Gundupatil 4 Java Mphasis": {
+    "candidate": "Gundupatil 4 Java Mphasis",
+    "original_file": "Gundupatil_4_Java_Mphasis__original.pdf",
+    "transformed_file": "Gundupatil_4_Java_Mphasis__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "phone"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-09-03T23:57:24.477504",
+    "completed_at": "2026-09-03T23:57:27.446405",
+    "processing_seconds": 2.97
+  },
+  "Gundupatil": {
+    "candidate": "Gundupatil",
+    "original_file": "Gundupatil__original.pdf",
+    "transformed_file": "Gundupatil__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "phone"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-09-03T23:26:48.970378",
+    "completed_at": "2026-09-03T23:26:52.431918",
+    "processing_seconds": 3.46
+  },
+  "Gunderayapatil": {
+    "candidate": "Gunderayapatil",
+    "original_file": "Gunderayapatil__original.pdf",
+    "transformed_file": "Gunderayapatil__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "phone"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-09-04T00:02:08.483542",
+    "completed_at": "2026-09-04T00:02:12.060253",
+    "processing_seconds": 3.58
+  },
+  "Gourang Agrawal": {
+    "candidate": "Gourang Agrawal",
+    "original_file": "Gourang_Agrawal__original.pdf",
+    "transformed_file": "Gourang_Agrawal__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "gpa",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-09-04T00:04:09.587380",
+    "completed_at": "2026-09-04T00:04:12.071068",
+    "processing_seconds": 2.48
+  },
+  "HRUTVIK DHOTE": {
+    "candidate": "HRUTVIK DHOTE",
+    "original_file": "HRUTVIK_DHOTE__original.pdf",
+    "transformed_file": "HRUTVIK_DHOTE__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-09-04T00:06:23.183073",
+    "completed_at": "2026-09-04T00:06:23.755302",
+    "processing_seconds": 0.57
+  },
+  "RUTUJA JADE": {
+    "candidate": "RUTUJA JADE",
+    "original_file": "RUTUJA_JADE__original.pdf",
+    "transformed_file": "RUTUJA_JADE__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-09-04T00:07:39.100154",
+    "completed_at": "2026-09-04T00:07:43.087452",
+    "processing_seconds": 3.99
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "Saman Mishra": {
+    "candidate": "Saman Mishra",
+    "original_file": "Saman_Mishra__original.docx",
+    "transformed_file": "Saman_Mishra__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "links",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Needs review",
+    "validation_score": 99,
+    "validation_issues": [
+      "1 sanitized source line(s) were not verified in the transformed resume.",
+      "Critical company/title/date content missing: US Citizen Short Hills, NJ | New York, NY",
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": false,
+    "started_at": "2026-08-31T16:44:33.430512",
+    "completed_at": "2026-08-31T16:44:35.698039",
+    "processing_seconds": 2.27
+  },
+  "Pooja Puli": {
+    "candidate": "Pooja Puli",
+    "original_file": "Pooja_Puli__original.docx",
+    "transformed_file": "Pooja_Puli__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "degree",
+      "education",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-08-28T08:56:13.706968",
+    "completed_at": "2026-08-28T08:56:15.373287",
+    "processing_seconds": 1.67
+  },
+  "John Doe": {
+    "candidate": "John Doe",
+    "original_file": "John_Doe__original.docx",
+    "transformed_file": "John_Doe__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-06-01T19:25:32.355067",
+    "completed_at": "2026-06-01T19:25:32.624181",
+    "processing_seconds": 0.27
+  },
+  "Raghava Kalyan Inguva": {
+    "candidate": "Raghava Kalyan Inguva",
+    "original_file": "Raghava_Kalyan_Inguva__original.docx",
+    "transformed_file": "Raghava_Kalyan_Inguva__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "links",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-06-01T19:25:32.351183",
+    "completed_at": "2026-06-01T19:25:33.653975",
+    "processing_seconds": 1.3
+  },
+  "Mallikharju nudu G": {
+    "candidate": "Mallikharju nudu G",
+    "original_file": "Mallikharju_nudu_G__original.pdf",
+    "transformed_file": "Mallikharju_nudu_G__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "academic",
+      "contact_details",
+      "links",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-08-30T23:37:08.877263",
+    "completed_at": "2026-08-30T23:37:10.646683",
+    "processing_seconds": 1.77
+  },
+  "Saritha Dirisala": {
+    "candidate": "Saritha Dirisala",
+    "original_file": "Saritha_Dirisala__original.docx",
+    "transformed_file": "Saritha_Dirisala__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "address",
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "phone"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-08-30T23:40:58.051359",
+    "completed_at": "2026-08-30T23:40:59.788610",
+    "processing_seconds": 1.74
+  },
+  "VenuGopal Kakkera": {
+    "candidate": "VenuGopal Kakkera",
+    "original_file": "VenuGopal_Kakkera__original.docx",
+    "transformed_file": "VenuGopal_Kakkera__transformed.docx",
+    "method": "docx_preserve",
+    "removed_categories": [
+      "contact_details",
+      "degree",
+      "education",
+      "email",
+      "links",
+      "phone",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "High",
+    "validation_score": 100,
+    "validation_issues": [],
+    "critical_passed": true,
+    "started_at": "2026-08-30T23:42:08.178628",
+    "completed_at": "2026-08-30T23:42:11.205041",
+    "processing_seconds": 3.03
+  },
+  "Mallikarjunudu Gourabathuni": {
+    "candidate": "Mallikarjunudu Gourabathuni",
+    "original_file": "Mallikarjunudu_Gourabathuni__original.pdf",
+    "transformed_file": "Mallikarjunudu_Gourabathuni__transformed.docx",
+    "method": "sanitized_pdf",
+    "removed_categories": [
+      "academic",
+      "contact_details",
+      "links",
+      "school"
+    ],
+    "preserved_categories": [
+      "professional_summary",
+      "technical_skills",
+      "professional_experience",
+      "company_names",
+      "job_titles",
+      "employment_dates",
+      "projects_and_work_highlights"
+    ],
+    "validation_confidence": "Medium",
+    "validation_score": 100,
+    "validation_issues": [
+      "Contact or link information may still be present."
+    ],
+    "critical_passed": true,
+    "started_at": "2026-08-31T16:43:46.984760",
+    "completed_at": "2026-08-31T16:43:48.545112",
+    "processing_seconds": 1.56
+  }
+}

@@ -1,0 +1,13 @@
+.claude/
+.openclaude/
+*.zip
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+.run/
+logs/
+*__transformed.docx
+

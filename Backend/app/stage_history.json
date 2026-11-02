@@ -1,0 +1,376 @@
+{
+  "Phil": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-03-20",
+      "logged_at": "2026-03-30T16:35:52.155153"
+    },
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-03-25",
+      "logged_at": "2026-03-30T16:36:16.324395"
+    },
+    {
+      "stage": "DM Interview Scheduled",
+      "date": "2026-03-31",
+      "logged_at": "2026-03-31T11:09:39.817533"
+    }
+  ],
+  "Clair Dunphy": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-03-30",
+      "logged_at": "2026-03-30T21:00:25.675852"
+    }
+  ],
+  "Edward": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-03-31",
+      "logged_at": "2026-03-31T13:54:30.539308"
+    },
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-04-03",
+      "logged_at": "2026-03-31T13:56:55.419725"
+    }
+  ],
+  "John": [
+    {
+      "stage": "L1 Reject",
+      "date": "2026-04-01",
+      "logged_at": "2026-04-01T16:54:30.440912"
+    },
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-04-01",
+      "logged_at": "2026-04-01T17:23:46.578215"
+    }
+  ],
+  "Michael": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T11:42:30.692626"
+    },
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T11:43:05.868936"
+    },
+    {
+      "stage": "Client Reject",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T11:43:56.783933"
+    }
+  ],
+  "Jordan": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T11:45:54.328077"
+    },
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-04-09",
+      "logged_at": "2026-04-08T11:46:34.622642"
+    },
+    {
+      "stage": "Client Reject",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T11:46:51.364793"
+    }
+  ],
+  "Hash": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-04-08",
+      "logged_at": "2026-04-08T12:17:26.648351"
+    }
+  ],
+  "Domnic": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-04-09",
+      "logged_at": "2026-04-08T12:22:32.268490"
+    },
+    {
+      "stage": "DM Interview Scheduled",
+      "date": "2026-04-25",
+      "logged_at": "2026-04-24T10:39:10.703956"
+    }
+  ],
+  "Larry": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-04-10",
+      "logged_at": "2026-04-10T11:58:49.176927"
+    }
+  ],
+  "Vishal Kumar": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-06",
+      "logged_at": "2026-05-06T18:26:13.205965"
+    }
+  ],
+  "Wilma D": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-04",
+      "logged_at": "2026-05-04T23:31:22.562970"
+    }
+  ],
+  "Vineet R": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-05",
+      "logged_at": "2026-05-05T18:34:30.386973"
+    }
+  ],
+  "Divy S": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-05",
+      "logged_at": "2026-05-05T18:56:45.973410"
+    }
+  ],
+  "Divya S": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-06",
+      "logged_at": "2026-05-06T12:46:37.280134"
+    }
+  ],
+  "Vamsikrihna Mandava": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-06",
+      "logged_at": "2026-05-06T12:56:17.804127"
+    }
+  ],
+  "Viraj C": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-06",
+      "logged_at": "2026-05-06T13:11:50.738697"
+    }
+  ],
+  "Michael P": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-06",
+      "logged_at": "2026-05-06T13:21:30.677297"
+    }
+  ],
+  "John Doe": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-29",
+      "logged_at": "2026-06-01T19:53:34.693361",
+      "interviewer": ""
+    }
+  ],
+  "Saman Mishra": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-26",
+      "logged_at": "2026-06-01T19:53:34.602870",
+      "interviewer": ""
+    },
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-02T11:59:51.894428",
+      "interviewer": ""
+    }
+  ],
+  "Raghava Kalyan Inguva": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-27",
+      "logged_at": "2026-06-01T19:53:34.631746",
+      "interviewer": ""
+    },
+    {
+      "stage": "DM Interview Scheduled",
+      "date": "2026-05-22",
+      "logged_at": "2026-06-01T19:55:14.893662",
+      "interviewer": ""
+    }
+  ],
+  "Pooja Puli": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-01T19:53:34.516344",
+      "interviewer": ""
+    },
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-28",
+      "logged_at": "2026-06-01T19:53:34.546591",
+      "interviewer": ""
+    }
+  ],
+  "Arjun Mehta": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-28",
+      "logged_at": "2026-06-01T19:25:31.900159",
+      "interviewer": ""
+    }
+  ],
+  "Divya Krishnan": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-30",
+      "logged_at": "2026-06-01T19:25:31.937876",
+      "interviewer": ""
+    }
+  ],
+  "Kiran Reddy": [
+    {
+      "stage": "DM Interview Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-01T19:25:31.964017",
+      "interviewer": ""
+    }
+  ],
+  "Sneha Patil": [
+    {
+      "stage": "Selected",
+      "date": "2026-05-29",
+      "logged_at": "2026-06-01T19:25:32.021746",
+      "interviewer": ""
+    }
+  ],
+  "Meera Iyer": [
+    {
+      "stage": "Client Reject",
+      "date": "2026-05-31",
+      "logged_at": "2026-06-01T19:25:32.075623",
+      "interviewer": ""
+    }
+  ],
+  "Anil Varma": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-25",
+      "logged_at": "2026-06-01T19:25:32.102028",
+      "interviewer": ""
+    }
+  ],
+  "Ravi Shankar": [
+    {
+      "stage": "DM Interview Scheduled",
+      "date": "2026-05-28",
+      "logged_at": "2026-06-01T19:25:32.155717",
+      "interviewer": ""
+    }
+  ],
+  "Neha Gupta": [
+    {
+      "stage": "Selected",
+      "date": "2026-05-22",
+      "logged_at": "2026-06-01T19:25:32.184168",
+      "interviewer": ""
+    }
+  ],
+  "Vijay Kumar": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-29",
+      "logged_at": "2026-06-01T19:25:32.215193",
+      "interviewer": ""
+    }
+  ],
+  "Ananya Singh": [
+    {
+      "stage": "Selected",
+      "date": "2026-05-20",
+      "logged_at": "2026-06-01T19:25:32.243467",
+      "interviewer": ""
+    }
+  ],
+  "Rohit Sharma": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-05-30",
+      "logged_at": "2026-06-01T19:25:32.270757",
+      "interviewer": ""
+    }
+  ],
+  "Kavya Reddy": [
+    {
+      "stage": "Client Interview Scheduled",
+      "date": "2026-05-24",
+      "logged_at": "2026-06-01T19:25:32.301746",
+      "interviewer": ""
+    }
+  ],
+  "Suresh Babu": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-01T19:25:32.328025",
+      "interviewer": ""
+    }
+  ],
+  "Test Candidate": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-02T11:37:54.351365",
+      "interviewer": ""
+    }
+  ],
+  "Test Tester": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-06-01",
+      "logged_at": "2026-06-02T11:57:32.829108",
+      "interviewer": ""
+    }
+  ],
+  "Mallikharju nudu G": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-08-30",
+      "logged_at": "2026-08-30T23:37:08.832397",
+      "interviewer": ""
+    }
+  ],
+  "Saritha Dirisala": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-08-29",
+      "logged_at": "2026-08-30T23:40:57.990345",
+      "interviewer": ""
+    }
+  ],
+  "VenuGopal Kakkera": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-08-30",
+      "logged_at": "2026-08-30T23:42:08.117426",
+      "interviewer": ""
+    }
+  ],
+  "Mallikarjunudu Gourabathuni": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-08-31",
+      "logged_at": "2026-08-31T10:06:38.619566",
+      "interviewer": ""
+    }
+  ],
+  "Dilip K": [
+    {
+      "stage": "L1 Scheduled",
+      "date": "2026-09-01",
+      "logged_at": "2026-09-01T11:14:58.546786",
+      "interviewer": ""
+    }
+  ]
+}

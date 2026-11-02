@@ -1,0 +1,7635 @@
+{
+  "Clair_Dunphy.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.005453",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Domnic.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.032303",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Edward.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 77,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 31,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.073402",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Hash.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.099538",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "John.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 92,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 92,
+        "matched": [
+          "Python",
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 52,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.137759",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Jordan.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.162484",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Larry.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 65,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 44,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 40,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.176476",
+    "source_role": "AWS Cloud Data Developer with Node.js"
+  },
+  "Michael.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.201712",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Phil.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 92,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 92,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 92,
+        "matched": [
+          "Python",
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 32,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.249252",
+    "source_role": "PYTHON/JAVA Dev D"
+  },
+  "Vishal_Kumar.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 58,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 54,
+        "matched": [
+          "C#",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 48,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-04-24T10:35:40.260784",
+    "source_role": "AWS Cloud Data Developer with Node.js"
+  },
+  "Wilma_D__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 80,
+        "matched": [
+          "Node.js",
+          "AWS services"
+        ],
+        "missing": [
+          ".NET Core Web API"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 60,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-04T23:38:32.438612",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Wilma_D__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 80,
+        "matched": [
+          "Node.js",
+          "AWS services"
+        ],
+        "missing": [
+          ".NET Core Web API"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 60,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-04T23:41:00.948743",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Jordan__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 71,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-05T18:39:05.198470",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Vineet_R__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-05T18:39:05.240189",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Divy_S__transformed.docx": {
+    "suggestions": [],
+    "computed_at": "2026-05-05T19:03:49.828626",
+    "source_role": "PYTHON/JAVA Dev D"
+  },
+  "Divya_S__transformed.docx": {
+    "suggestions": [],
+    "computed_at": "2026-05-06T13:09:01.403652",
+    "source_role": "Mainframe developer"
+  },
+  "Vamsikrihna_Mandava__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 70,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 64,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 60,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 39,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-06T13:09:01.476630",
+    "source_role": "Mainframe developer"
+  },
+  "Michael_P__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 68,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 56,
+        "matched": [
+          "C#",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": [
+          "ASP.NET"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 53,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-06T17:10:16.567333",
+    "source_role": "Mainframe developer"
+  },
+  "Viraj_C__transformed.docx": {
+    "suggestions": [],
+    "computed_at": "2026-05-06T17:10:16.598402",
+    "source_role": "Mainframe developer"
+  },
+  "Vishal_Kumar__original.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-07T16:29:16.936728",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Vishal_Kumar__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      }
+    ],
+    "computed_at": "2026-05-07T16:29:16.990773",
+    "source_role": "SQL/Python/FE DEV"
+  },
+  "Pooja_Puli__original.docx": {
+    "suggestions": [
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 95,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 95,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "Docker",
+          "AWS",
+          "OAuth2",
+          "JWT"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 94,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "Kafka"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 89,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 82,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 76,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Azure Synapse",
+          "Databricks",
+          "Apache Airflow",
+          "SQL"
+        ],
+        "missing": [
+          "Azure Data Factory",
+          "Delta Lake",
+          "dbt",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 73,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 70,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Docker",
+          "CI/CD"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "REST APIs",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 65,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 59,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 55,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 34,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:20.816887",
+    "source_role": ""
+  },
+  "Pooja_Puli__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 95,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 95,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "Docker",
+          "AWS",
+          "OAuth2",
+          "JWT"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 94,
+        "matched": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "Kafka"
+        ],
+        "missing": [
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 89,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 82,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 76,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Azure Synapse",
+          "Databricks",
+          "Apache Airflow",
+          "SQL"
+        ],
+        "missing": [
+          "Azure Data Factory",
+          "Delta Lake",
+          "dbt",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 73,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 70,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Docker",
+          "CI/CD"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "REST APIs",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 65,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 59,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 55,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 34,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:20.969813",
+    "source_role": ""
+  },
+  "Raghava_Kalyan_Inguva__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 80,
+        "matched": [
+          "Python",
+          "React",
+          "SQL"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 66,
+        "matched": [
+          "Python",
+          "React",
+          "REST APIs",
+          "CI/CD"
+        ],
+        "missing": [
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 59,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 55,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 54,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 54,
+        "matched": [
+          "Python",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 51,
+        "matched": [
+          "SQL",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 47,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 45,
+        "matched": [
+          "Python",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 35,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:21.183173",
+    "source_role": "SQL Developer"
+  },
+  "Raghava_Kalyan_Inguva__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 80,
+        "matched": [
+          "Python",
+          "React",
+          "SQL"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 66,
+        "matched": [
+          "Python",
+          "React",
+          "REST APIs",
+          "CI/CD"
+        ],
+        "missing": [
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 59,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 55,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 54,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 54,
+        "matched": [
+          "Python",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 51,
+        "matched": [
+          "SQL",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 47,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 45,
+        "matched": [
+          "Python",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 34,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:21.399638",
+    "source_role": "SQL Developer"
+  },
+  "Saman_Mishra__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 86,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 78,
+        "matched": [
+          "Python",
+          "C#"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 68,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 67,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 64,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Redis",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 60,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 52,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 50,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 48,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 36,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:21.559098",
+    "source_role": "AI Quantitative Engineer"
+  },
+  "Saman_Mishra__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "Python",
+          "C#"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 67,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 67,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 66,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 64,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Redis",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 60,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 51,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 49,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 47,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 34,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:21.702180",
+    "source_role": "AI Quantitative Engineer"
+  },
+  "Saman_Mishra___original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 86,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "ETL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 78,
+        "matched": [
+          "Python",
+          "C#"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 68,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 67,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 64,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Redis",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 60,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 52,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 50,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 48,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 36,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:21.880690",
+    "source_role": ""
+  },
+  "Saman_Mishra___transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "Python",
+          "C#"
+        ],
+        "missing": [
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 67,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 67,
+        "matched": [
+          "Python",
+          "Pandas",
+          "NumPy",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "FastAPI",
+          "SQLAlchemy",
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 66,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 64,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "AWS",
+          "Pandas"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "Python",
+          "PostgreSQL",
+          "Redis",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 60,
+        "matched": [
+          "Python",
+          "scikit-learn",
+          "Pandas",
+          "NumPy"
+        ],
+        "missing": [
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Docker",
+          "Kubernetes"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 51,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 49,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 47,
+        "matched": [
+          "Python",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 40,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 34,
+        "matched": [],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      }
+    ],
+    "computed_at": "2026-06-01T19:48:22.031722",
+    "source_role": ""
+  },
+  "Mallikharju_nudu_G__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "AWS"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 50,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python",
+          "Snowflake"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 36,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 31,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "computed_at": "2026-08-31T09:58:52.573082",
+    "source_role": ""
+  },
+  "Saritha_Dirisala__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 50,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 41,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 39,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 33,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-08-31T09:58:52.807925",
+    "source_role": ""
+  },
+  "Saritha_Dirisala__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 49,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 40,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 38,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 32,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-08-31T09:58:53.033762",
+    "source_role": ""
+  },
+  "VenuGopal_Kakkera__original.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-08-31T09:58:53.248856",
+    "source_role": ""
+  },
+  "VenuGopal_Kakkera__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-08-31T09:58:53.462024",
+    "source_role": ""
+  },
+  "Vishal_Dot_Net_Dev_(1)__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 72,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 36,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "AWS"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-01T16:47:15.553289",
+    "source_role": ""
+  },
+  "Vishal_Dot_Net_Dev_(1)__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 71,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 71,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 35,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "AWS"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-01T16:47:15.620177",
+    "source_role": ""
+  },
+  "Venugopal__original.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-09-01T20:23:08.788912",
+    "source_role": ""
+  },
+  "Venugopal__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-09-01T20:23:09.014051",
+    "source_role": ""
+  },
+  "Saritha_Dirisala_Net_Fsd__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 50,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 41,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 39,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 33,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-01T21:04:43.157668",
+    "source_role": ""
+  },
+  "Saritha_Dirisala_Net_Fsd__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 49,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 40,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 38,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 32,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-01T21:04:43.417632",
+    "source_role": ""
+  },
+  "Venugopal_Kakkera_Fsd__original.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-09-01T21:04:43.640497",
+    "source_role": ""
+  },
+  "Venugopal_Kakkera_Fsd__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 92,
+        "matched": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 88,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 85,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 83,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 80,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 64,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 63,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 62,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 60,
+        "matched": [
+          "Node.js"
+        ],
+        "missing": [
+          ".NET Core Web API",
+          "AWS services"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 46,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 45,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 41,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 37,
+        "matched": [],
+        "missing": []
+      }
+    ],
+    "computed_at": "2026-09-01T21:04:43.855556",
+    "source_role": ""
+  },
+  "Mallikarjundu_G__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "AWS"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 50,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python",
+          "Snowflake"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 36,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 31,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T09:22:45.922114",
+    "source_role": ""
+  },
+  "SARITHA_DIRISALA__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 50,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 41,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 39,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 33,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T09:22:46.170965",
+    "source_role": ""
+  },
+  "SARITHA_DIRISALA__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 84,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 81,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 76,
+        "matched": [
+          "C#",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 76,
+        "matched": [
+          ".NET Core Web API",
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 74,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 70,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 52,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 49,
+        "matched": [
+          "Docker",
+          "Kubernetes",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kafka",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 40,
+        "matched": [
+          "Docker",
+          "Kubernetes"
+        ],
+        "missing": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 38,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL Developer",
+        "position_code": "663525",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "AI Quantitative Engineer",
+        "position_code": "635241",
+        "overall": 34,
+        "matched": [],
+        "missing": []
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 32,
+        "matched": [],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T09:22:46.414650",
+    "source_role": ""
+  },
+  "Mallikharju_G.__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "AWS"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 50,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python",
+          "Snowflake"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 36,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 31,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T09:35:44.775696",
+    "source_role": ""
+  },
+  "Mallikharju_G.__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 79,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "AWS"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "React",
+          "Java"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 50,
+        "matched": [
+          "SQL",
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Java"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "C#",
+          "Java"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 38,
+        "matched": [
+          "Python",
+          "Snowflake"
+        ],
+        "missing": [
+          "PySpark",
+          "Apache Airflow",
+          "AWS Glue",
+          "dbt",
+          "Kafka",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 36,
+        "matched": [
+          "Python",
+          "SQL"
+        ],
+        "missing": [
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 31,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 30,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T09:35:44.858419",
+    "source_role": ""
+  },
+  "Clair_Dunphy__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 72,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 72,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 57,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 36,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "AWS"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T10:20:49.019437",
+    "source_role": ""
+  },
+  "Clair_Dunphy__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 71,
+        "matched": [
+          "C#",
+          "ASP.NET",
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 71,
+        "matched": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "missing": []
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 35,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "AWS"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T10:20:49.094062",
+    "source_role": ""
+  },
+  "RAJIV_KUMAR_RANJAN__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 46,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 40,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 37,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 36,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T12:19:40.681679",
+    "source_role": ""
+  },
+  "RAJIV_KUMAR_RANJAN__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 35,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 30,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "SQL"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T12:19:40.808463",
+    "source_role": ""
+  },
+  "VIJAY_KRISHNAN_K__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 75,
+        "matched": [
+          "Python",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "React"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 74,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "Kafka"
+        ],
+        "missing": [
+          "dbt",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 73,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "ETL",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "SSIS"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 70,
+        "matched": [
+          "Python",
+          "Java"
+        ],
+        "missing": [
+          "C#"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 68,
+        "matched": [
+          "Python",
+          "PySpark",
+          "Databricks",
+          "Apache Airflow",
+          "SQL"
+        ],
+        "missing": [
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Delta Lake",
+          "dbt",
+          "Terraform"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 66,
+        "matched": [
+          "SQL",
+          "Python",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 51,
+        "matched": [
+          "Python",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Docker",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 47,
+        "matched": [
+          "Python",
+          "Kafka",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 43,
+        "matched": [
+          "Python",
+          "AWS"
+        ],
+        "missing": [
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 40,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "ML Engineer",
+        "position_code": "PC-S002",
+        "overall": 37,
+        "matched": [
+          "Python"
+        ],
+        "missing": [
+          "scikit-learn",
+          "TensorFlow",
+          "PyTorch",
+          "MLflow",
+          "Kubeflow",
+          "AWS SageMaker",
+          "Pandas",
+          "NumPy",
+          "Docker",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-02T12:19:40.895860",
+    "source_role": ""
+  },
+  "Gourang_Agrawal__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 66,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 63,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "Oracle",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "ETL",
+          "SSIS"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 57,
+        "matched": [
+          "React",
+          "Docker",
+          "REST APIs",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "PostgreSQL",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 47,
+        "matched": [
+          "Redis",
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 45,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 43,
+        "matched": [
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 41,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 39,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T13:59:20.428769",
+    "source_role": ""
+  },
+  "Gundupatil_4_Java_Mphasis__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 49,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 43,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 39,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 38,
+        "matched": [
+          "PostgreSQL",
+          "TypeScript"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 37,
+        "matched": [
+          "PostgreSQL",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 36,
+        "matched": [
+          "SQL",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 34,
+        "matched": [
+          "PostgreSQL",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest",
+          "Kafka"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T13:59:20.543094",
+    "source_role": ""
+  },
+  "HRUTVIK_DHOTE__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 46,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 40,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 36,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 30,
+        "matched": [
+          "Snowflake",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "AWS Glue",
+          "dbt",
+          "PostgreSQL",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.537211",
+    "source_role": ""
+  },
+  "Kajol_Bhosale__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 68,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 66,
+        "matched": [
+          "React",
+          "PostgreSQL",
+          "Docker",
+          "REST APIs",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "TypeScript"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 59,
+        "matched": [
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "AWS",
+          "OAuth2",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Celery",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 54,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL",
+          "SSIS"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 50,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 49,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 47,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 43,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 31,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.634198",
+    "source_role": ""
+  },
+  "Kavita_Kumari__original.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 38,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 32,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 32,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.701011",
+    "source_role": ""
+  },
+  "Kavita_Kumari__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 37,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 32,
+        "matched": [
+          "SQL",
+          "Oracle",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 31,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.764597",
+    "source_role": ""
+  },
+  "PROFILE_SUMMARY__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 56,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 50,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 47,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "AWS"
+        ],
+        "missing": [
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 46,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 46,
+        "matched": [
+          "Docker",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "Node.js",
+          "PostgreSQL",
+          "REST APIs"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 43,
+        "matched": [
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 40,
+        "matched": [
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 37,
+        "matched": [
+          "Docker",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 34,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 31,
+        "matched": [
+          "Terraform",
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 30,
+        "matched": [
+          "Kafka",
+          "Terraform"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.860485",
+    "source_role": ""
+  },
+  "PROFILE__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 65,
+        "matched": [
+          "React",
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 64,
+        "matched": [
+          "React",
+          "PostgreSQL",
+          "Docker",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "Node.js",
+          "REST APIs"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 51,
+        "matched": [
+          "SQL",
+          "PL/SQL",
+          "AWS",
+          "Azure"
+        ],
+        "missing": [
+          "Oracle",
+          "ETL",
+          "SSIS"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 48,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 48,
+        "matched": [
+          "PostgreSQL",
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 44,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 43,
+        "matched": [
+          "PostgreSQL",
+          "Redis",
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Celery",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "AWS Cloud Data Developer with Node.js",
+        "position_code": "99665529",
+        "overall": 42,
+        "matched": [
+          "AWS services"
+        ],
+        "missing": [
+          "Node.js",
+          ".NET Core Web API"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 40,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 37,
+        "matched": [
+          "Kafka",
+          "PostgreSQL",
+          "Terraform"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 32,
+        "matched": [
+          "Terraform",
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:23.956921",
+    "source_role": ""
+  },
+  "RUTUJA_JADE__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 60,
+        "matched": [
+          "Docker",
+          "REST APIs",
+          "TypeScript",
+          "CI/CD"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "Node.js",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 55,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 49,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 48,
+        "matched": [
+          "SQL",
+          "SSIS",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 47,
+        "matched": [
+          "Docker",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "PostgreSQL",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 45,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 42,
+        "matched": [
+          "Kafka",
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Kubernetes",
+          "PostgreSQL",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 41,
+        "matched": [
+          "Docker",
+          "AWS"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "PostgreSQL",
+          "Redis",
+          "Celery",
+          "OAuth2",
+          "JWT",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Data Engineer",
+        "position_code": "PC-T001",
+        "overall": 30,
+        "matched": [
+          "SQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Azure Data Factory",
+          "Azure Synapse",
+          "Databricks",
+          "Delta Lake",
+          "dbt",
+          "Apache Airflow",
+          "Terraform"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T16:48:24.066391",
+    "source_role": ""
+  },
+  "Gundupatil__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 49,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 43,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 41,
+        "matched": [
+          "PostgreSQL",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 39,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 38,
+        "matched": [
+          "PostgreSQL",
+          "TypeScript"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 37,
+        "matched": [
+          "SQL",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 37,
+        "matched": [
+          "PostgreSQL",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 35,
+        "matched": [
+          "Kafka",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 30,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T23:24:17.796559",
+    "source_role": ""
+  },
+  "Gunderayapatil__transformed.docx": {
+    "suggestions": [
+      {
+        "role": "SQL/PYTHON DEVELOPER",
+        "position_code": "559962",
+        "overall": 49,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "React"
+        ]
+      },
+      {
+        "role": "SQL/Python/FE DEV",
+        "position_code": "5544929",
+        "overall": 43,
+        "matched": [
+          "SQL",
+          "Java"
+        ],
+        "missing": [
+          "C#",
+          "ASP.NET",
+          "Python"
+        ]
+      },
+      {
+        "role": "Python Developer",
+        "position_code": "PC-F001",
+        "overall": 41,
+        "matched": [
+          "PostgreSQL",
+          "AWS",
+          "Kafka"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Flask",
+          "Docker",
+          "Pandas",
+          "SQLAlchemy",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "React JS FE DEV",
+        "position_code": "995549",
+        "overall": 39,
+        "matched": [
+          "Java"
+        ],
+        "missing": [
+          "Python",
+          "C#"
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "position_code": "PC-A001",
+        "overall": 38,
+        "matched": [
+          "PostgreSQL",
+          "TypeScript"
+        ],
+        "missing": [
+          "Python",
+          "React",
+          "Node.js",
+          "Docker",
+          "REST APIs",
+          "CI/CD"
+        ]
+      },
+      {
+        "role": "SQL Devloper",
+        "position_code": "99559",
+        "overall": 37,
+        "matched": [
+          "SQL",
+          "AWS"
+        ],
+        "missing": [
+          "PL/SQL",
+          "Oracle",
+          "ETL",
+          "SSIS",
+          "Azure"
+        ]
+      },
+      {
+        "role": "Python Backend Developer",
+        "position_code": "PC-S001",
+        "overall": 37,
+        "matched": [
+          "PostgreSQL",
+          "AWS",
+          "JWT"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Redis",
+          "Celery",
+          "Docker",
+          "OAuth2",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Senior Python Developer",
+        "position_code": "PC-B001",
+        "overall": 35,
+        "matched": [
+          "Kafka",
+          "AWS",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "FastAPI",
+          "Pandas",
+          "NumPy",
+          "SQLAlchemy",
+          "Docker",
+          "Kubernetes",
+          "PyTest"
+        ]
+      },
+      {
+        "role": "Data Engineer",
+        "position_code": "PC-B002",
+        "overall": 30,
+        "matched": [
+          "Kafka",
+          "PostgreSQL"
+        ],
+        "missing": [
+          "Python",
+          "PySpark",
+          "Apache Airflow",
+          "Snowflake",
+          "AWS Glue",
+          "dbt",
+          "Terraform",
+          "PyTest"
+        ]
+      }
+    ],
+    "computed_at": "2026-09-03T23:38:01.295701",
+    "source_role": ""
+  }
+}
